@@ -15,7 +15,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `json-server -p 3001 db.json`
+
 You must run this script because of the display images.
+
 Open a new node/terminal and start the json server on 3001 port.
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
