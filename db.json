@@ -1,0 +1,47 @@
+{
+    "site-info": 
+    { 
+        "name": "Atum Hartwin",
+        "subtitle": "photography",
+        "email": "atomhartwin@gmail.com"
+    },
+    "about": 
+    {
+        "image": "https://images.unsplash.com/photo-1545996124-0501ebae84d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint impedit dignissimos aliquam, nihil ut debitis perferendis autem fuga fugit iure, adipisci alias. Recusandae, eligendi repudiandae eveniet odio dolorum aliquid facere! Facere aut soluta, corporis debitis numquam, voluptate saepe ab possimus, et vitae perspiciatis dolores iusto. Quos iste alias, recusandae beatae magnam cupiditate accusantium eaque architecto earum fugit ab laboriosam sit tenetur odit. Possimus quis voluptatibus velit, culpa numquam iusto. Eligendi aspernatur distinctio tempore nam vel, harum veniam obcaecati ad autem magnam deserunt sit. Distinctio, ducimus quibusdam! Tenetur suscipit aperiam iure, vero maxime ipsam, nisi totam laborum, perspiciatis commodi vel voluptatum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint impedit dignissimos aliquam, nihil ut debitis perferendis autem fuga fugit iure, adipisci alias. Recusandae, eligendi repudiandae eveniet odio dolorum aliquid facere! Facere aut soluta, corporis debitis numquam, voluptate saepe ab possimus, et vitae perspiciatis dolores iusto. Quos iste alias, recusandae beatae magnam cupiditate accusantium eaque architecto earum fugit ab laboriosam sit tenetur odit. Possimus quis voluptatibus velit, culpa numquam iusto. Eligendi aspernatur distinctio tempore nam vel, harum veniam obcaecati ad autem magnam deserunt sit. Distinctio, ducimus quibusdam! Tenetur suscipit aperiam iure, vero maxime ipsam, nisi totam laborum, perspiciatis commodi vel voluptatum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint impedit dignissimos aliquam, nihil ut debitis perferendis autem fuga fugit iure, adipisci alias. Recusandae, eligendi repudiandae eveniet odio dolorum aliquid facere! Facere aut soluta, corporis debitis numquam, voluptate saepe ab possimus, et vitae perspiciatis dolores iusto. Quos iste alias, recusandae beatae magnam cupiditate accusantium eaque architecto earum fugit ab laboriosam sit tenetur odit. Possimus quis voluptatibus velit, culpa numquam iusto.\\n\\nEligendi aspernatur distinctio tempore nam vel, harum veniam obcaecati ad autem magnam deserunt sit. Distinctio, ducimus quibusdam! Tenetur suscipit aperiam iure, vero maxime ipsam, nisi totam laborum, perspiciatis commodi vel voluptatum."
+    },
+    "landing-page":
+    {
+        "images": ["https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80", "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1574&q=80", "https://images.unsplash.com/photo-1488675577037-0d517feb0b09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80", "https://images.unsplash.com/photo-1570158268183-d296b2892211?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"],
+        "title": "Hello!",
+        "slogen": "unc sodales velit quis sem ullamcorper euismod. Morbi elementum risus non arcu pellentesque pellentesque. Duis id neque dui. Etiam ut pellentesque tellus, nec mollis odio."
+    },
+    "photos":
+    [
+        {"id": 0, "category": "wedding", "image": "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 1, "category": "wedding", "image": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 2, "category": "wedding", "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80"},
+        {"id": 3, "category": "wedding", "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 4, "category": "wedding", "image": "https://images.unsplash.com/photo-1606800052052-a08af7148866?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 5, "category": "nature", "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1574&q=80"},
+        {"id": 6, "category": "nature", "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=800"},
+        {"id": 7, "category": "nature", "image": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 8, "category": "nature", "image": "https://images.unsplash.com/photo-1586348943529-beaae6c28db9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80"},
+        {"id": 9, "category": "nature", "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 10, "category": "nature", "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 11, "category": "urban", "image": "https://images.unsplash.com/photo-1507090960745-b32f65d3113a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 12, "category": "urban", "image": "https://images.unsplash.com/photo-1488675577037-0d517feb0b09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80"},
+        {"id": 13, "category": "urban", "image": "https://images.unsplash.com/photo-1597739239353-50270a473397?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80"},
+        {"id": 14, "category": "urban", "image": "https://images.unsplash.com/photo-1595841696677-6489ff3f8cd1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"},
+        {"id": 15, "category": "urban", "image": "https://images.unsplash.com/photo-1496850574977-a4607106a874?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"},
+        {"id": 16, "category": "urban", "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 17, "category": "urban", "image": "https://images.unsplash.com/photo-1453989799106-bbad8d7b5191?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"},
+        {"id": 18, "category": "portrait", "image": "https://images.unsplash.com/photo-1521119989659-a83eee488004?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=723&q=80"},
+        {"id": 19, "category": "portrait", "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"},
+        {"id": 20, "category": "portrait", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"},
+        {"id": 21, "category": "portrait", "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"},
+        {"id": 22, "category": "portrait", "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"},
+        {"id": 23, "category": "portrait", "image": "https://images.unsplash.com/photo-1570158268183-d296b2892211?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"},
+        {"id": 24, "category": "portrait", "image": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80"}
+    ]
+}

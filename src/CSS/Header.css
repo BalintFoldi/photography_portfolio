@@ -1,0 +1,104 @@
+header{
+    background-color: var(--nav-gray);
+    padding: var(--default-padding);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+}
+
+nav{
+    display: inherit;
+
+}
+
+nav a
+{
+    color: inherit;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+nav a:hover{
+    color: var(--title-yellow);
+}
+
+
+.page-title-container{
+    color: var(--title-yellow);
+    border-right: 5px solid;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-decoration: none;
+}
+
+.page-title-container h1{
+    font-size: 30px;
+}
+
+.page-title-container h2{
+    font-size: 16px;
+}
+
+header i{
+    font-size: 20px;
+    margin: 0 5px;
+}
+
+nav a.active{
+    color: var(--title-yellow);
+}
+
+header .mobile-button {
+    display: none;
+}
+
+.nav-mobile{
+    font-size: 30px;
+}
+
+header .mobile-menu{
+    display: none;
+    position: fixed;
+    top: 93px;
+    left: 0;
+    background-color: var(--nav-gray);
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 5px;
+}
+
+header .mobile-menu a{
+    color: inherit;
+    font-size: 30px;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+header .mobile-button{
+    font-size: 40px;
+}
+
+.mobile-menu .social-links-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+
+/* Mobile styles */
+
+@media only screen and (max-width: 500px){
+    header .nav-desktop {display: none}
+    header .social-desktop {display: none}
+    header .mobile-button {display: block}
+    header .mobile-menu{display: flex}
+}

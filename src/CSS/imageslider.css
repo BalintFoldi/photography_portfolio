@@ -1,0 +1,39 @@
+.image-slider-container{
+    position: relative;
+    min-height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 100px;
+}
+
+.image-slider-container img{
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    object-fit: cover;
+    position: absolute;
+    opacity: 0;
+    transition: 2s;
+    filter: grayscale();
+}
+
+.image-slider-container .visible{
+    opacity: 0.3;
+}
+
+.image-slider-container h1{
+    font-size: 128px;
+    color: var(--title-yellow);
+    position: relative;
+    text-align: center;
+}
+
+.image-slider-container h2{
+    font-size: 36px;
+    position: relative;
+    text-align: center;
+}
